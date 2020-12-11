@@ -22,11 +22,11 @@ header {
   background-color: black;
   padding: 69px 0px 36px 0px;
   text-align: center;
-  font-size: 42px;
+  font-size: 45px;
   font-family: cairo, sans-serif;
   font-weight: 700;
   font-style: normal;
-  letter-spacing: 0.05em;
+  letter-spacing: 0.04em;
 }
 br {
   display: none;
